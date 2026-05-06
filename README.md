@@ -32,7 +32,7 @@ This project explores how optimisation techniques can be combined to improve sol
 
 ## 📁 Project Files
 - `GirijaD_20597330_HyVis_Report.pdf` — Full dissertation
-- `Final_code_Girija_dissertation(1).ipynb` — Implementation
+- `tsp_rl_sa_visualisation.ipynb` — Implementation
 
 ## ▶️ Running the Project
 Instructions coming soon (code currently in notebook format).
